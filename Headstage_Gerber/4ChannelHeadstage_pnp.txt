@@ -1,0 +1,28 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=4ChannelHeadstage
+*Date=20:33:44
+*CreatedBy=Fritzing 0.8.3b.07.27.048f
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;1.09097;-11.2415;0;Bottom;-
+2;;SOIC-14;9.66893;-8.3031;90;Top;IC1
+3;;THT;8.54654;-2.01943;90;Bottom;J7
+4;;;9.6774;-8.427;0;Bottom;Copper Fill2
+5;;;2.34206;-9.27043;0;Bottom;+
+6;;;2.19559;-1.86435;0;Bottom;Gnd
+7;;;9.79396;-6.6332;0;Bottom;TXT1
+8;4.7mF;A 3216 [SMD, tantalum];1.12651;-4.84456;90;Bottom;C1
+9;;THT;8.57532;-0.892513;90;Bottom;J8
+10;;;10.541;-6.9538;0;Bottom;Copper Fill1
+11;4.7mF;A 3216 [SMD, tantalum];3.2971;-4.8539;-90;Bottom;C2
+12;;;11.3783;-8.31421;0;Bottom;Via2
+13;;;3.31093;-8.29586;0;Bottom;Via1
